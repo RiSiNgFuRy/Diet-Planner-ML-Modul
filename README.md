@@ -5,7 +5,7 @@
 - The ML module incorporates the concept of Basal Metabolic Rate (**BMR**) to determine the required calorie intake.
 - By considering factors such as age, gender, height, and weight, BMR is calculated to estimate daily calorie needs.
 - The user's goal, such as weight loss, gain or maintenance, determines the target calorie intake.
-- Based on this goal, the ML module generates personalized food recommendations.
+- Based on this goal, the ML module generates personalized food recommendations in **JSON** format.
 
 ## Module 
 - **Components Used in ML Module**
